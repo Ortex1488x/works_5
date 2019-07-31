@@ -1,0 +1,39 @@
+body {
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.section {
+  max-width: 1920px;
+  height: 1081px;
+  margin-top: 52px;
+  background-color: #26650a;
+}
+
+.container {
+  width: 1280px;
+  margin: auto;
+}
+
+.hero-text {
+  text-align: center;
+}
+
+.hero-text__title {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.hero-text__title.up {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  margin-top: 120px;
+  margin-bottom: 59px;
+}
+
+.hero-text__subtitle {
+  font-size: 18px;
+  font-weight: 400;
+}
+/*# sourceMappingURL=style.css.map */
